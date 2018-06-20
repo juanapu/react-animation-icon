@@ -12,6 +12,7 @@
 .cus-btn:hove{
     background: #e0dddd;
     border-radius: 50%;
+    cursor: pointer;
 }
 .cus-clicked-ani{
 	width: 40px;
